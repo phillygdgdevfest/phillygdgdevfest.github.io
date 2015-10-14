@@ -6,6 +6,9 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    background:    url("/assets/header.jpg") no-repeat ;
+
+    z-index: -1;
 }
 
 .site-title {
